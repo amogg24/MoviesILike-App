@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Lyric Theatre</key>
+	<string>135 College Ave, Blacksburg, VA 24060</string>
+	<key>Regal New River Valley</key>
+	<string>110 New River Road, Christiansburg, VA 24073</string>
+	<key>The Starlite Drive-In</key>
+	<string>275 Starlight Dr, Christiansburg, VA 24073</string>
+	<key>Radford Theatre</key>
+	<string>1065 E Main St, Radford, VA 24141</string>
+	<key>The Grandin Theatre</key>
+	<string>1310 Grandin Rd SW, Roanoke, VA 24015</string>
+	<key>Carmike Salem Valley 8</key>
+	<string>1700 Apperson Dr, Salem, VA 24153</string>
+	<key>Regal Cinemas Valley View</key>
+	<string>4730 Valley View Blvd NW, Roanoke, VA 24012</string>
+	<key>Carmike 10</key>
+	<string>4494 Electric Rd, Roanoke, VA 24018</string>
+	<key>S.C. Johnson IMAX Theater</key>
+	<string>1000 Constitution Avenue NW, Washington, DC 20002</string>
+</dict>
+</plist>
