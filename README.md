@@ -1,0 +1,2 @@
+# MoviesILike-iOS App
+This app allows for users to add and delete their favorite movies in a table view categorized by genre. Clicking on a cell takes the user to that movie’s YouTube trailer. On a second tab, the user can search the entire Rotten Tomatoes database for any movie of their choice and display the searched movie’s information from the Rotten Tomatoes API. The third tab allows users to add, edit, and delete their favorite movie theaters. They can also find show times and locate the theaters on a map
